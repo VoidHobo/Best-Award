@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: orange;
+}
+.best-game{
+font-family: 'Roboto', sans-serif;
+color: blue;
+}
+.best-champion{
+font-family: 'Cute Font', cursive;
+color: red;
+}
+.best-drink{
+font-family: 'Open Sans', sans-serif;
+color: white;
+}
+.best-food{
+font-family: 'Lato', sans-serif;
+color: green;
+}
